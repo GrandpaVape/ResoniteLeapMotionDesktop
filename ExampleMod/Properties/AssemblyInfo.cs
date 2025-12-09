@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 
-[assembly: AssemblyTitle("ExampleMod")]
-[assembly: AssemblyProduct("ExampleMod")]
-[assembly: AssemblyDescription("Description of your mod")]
-[assembly: AssemblyCompany("ExampleAuthor")]
-[assembly: AssemblyCopyright("Copyright © 2025 ExampleAuthor")]
-[assembly: AssemblyVersion(ExampleMod.ExampleMod.VERSION_CONSTANT)]
-[assembly: AssemblyFileVersion(ExampleMod.ExampleMod.VERSION_CONSTANT)]
+[assembly: AssemblyTitle("LeapMotionMod")]
+[assembly: AssemblyProduct("LeapMotionMod")]
+[assembly: AssemblyDescription("LEAP in Desktop")]
+[assembly: AssemblyCompany("GrandpaVape")]
+[assembly: AssemblyCopyright("Copyright © 2025 GrandpaVape")]
+[assembly: AssemblyVersion(LeapMotionMod.LeapMotionMod.VERSION_CONSTANT)]
+[assembly: AssemblyFileVersion(LeapMotionMod.LeapMotionMod.VERSION_CONSTANT)]
